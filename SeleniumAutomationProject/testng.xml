@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+    <class name="OrangeHRM.NewTest"/>
+       <class name="OrangeHRM.LoginHrm"/>
+        <class name="OrangeHRM.ForgotPassword"/>
+         <class name="OrangeHRM.ResetPassword"/>
+          <class name="OrangeHRM.EmployReview"/>
+           <class name="OrangeHRM.Searchoption"/>
+            <class name="OrangeHRM.LaunchBrowser"/>
+            <class name="OrangeHRM.EmployRecords"/>
+            <class name="OrangeHRM.DashBoardPage"/>
+                        <class name="OrangeHRM.verifyingloginpage"/>
+          
+            <class name="OrangeHRM.Logout"/>
+      
+   </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
