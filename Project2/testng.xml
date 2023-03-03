@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="AutomationPoject1.Project2.AppTest"/>
+      <class name="AutomationPoject1.Project2.AboutWebmath"/>
+      <class name="AutomationPoject1.Project2.ContactUs"/>
+      <class name="AutomationPoject1.Project2.WebMathPage"/>
+      <class name="AutomationPoject1.Project2.WebsiteMapPage"/>
+      <class name="AutomationPoject1.Project2.WhyWebMathPage"/>
+      <class name="AutomationPoject1.Project2.PrivacyPolicy"/>
+      <class name="AutomationPoject1.Project2.HomePage"/>
+      <class name="AutomationPoject1.Project2.NewTest"/>
+      <class name="AutomationPoject1.Project2.MathForEveryone"/>
+      <class name="AutomationPoject1.Project2.Login"/>
+      <class name="AutomationPoject1.Project2.OtherMathStuffPage"/>
+      <class name="AutomationPoject1.Project2.AreaConversion"/>
+      <class name="AutomationPoject1.Project2.ConvertKmToMiles"/>
+      <class name="AutomationPoject1.Project2.PlotsAndGeometryPage"/>
+      <class name="AutomationPoject1.Project2.TrignometryAndCalculusPage"/>
+      <class name="AutomationPoject1.Project2.UnitsConversionOnLength"/>
+      <class name="AutomationPoject1.Project2.Volumeconversion"/>
+      <class name="AutomationPoject1.Project2.AlgebraPage"/>
+      <class name="AutomationPoject1.Project2.FactorAnIntegerTest"/>
+      
+      
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
